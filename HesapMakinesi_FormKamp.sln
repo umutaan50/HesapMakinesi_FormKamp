@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HesapMakinesi_FormKamp", "HesapMakinesi_FormKamp\HesapMakinesi_FormKamp.csproj", "{04978D0D-0782-4A54-A2F4-41D995C3D59C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04978D0D-0782-4A54-A2F4-41D995C3D59C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04978D0D-0782-4A54-A2F4-41D995C3D59C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04978D0D-0782-4A54-A2F4-41D995C3D59C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04978D0D-0782-4A54-A2F4-41D995C3D59C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90FBB5B9-07BE-4FAC-8BB3-803A85289699}
+	EndGlobalSection
+EndGlobal
